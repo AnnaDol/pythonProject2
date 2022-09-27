@@ -8,3 +8,5 @@ def subtract(x, y):
 def mul(x, y):
     return x*y
 >>>>>>> test
+def div(x, y):
+    return x / y
