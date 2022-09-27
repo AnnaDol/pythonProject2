@@ -10,3 +10,6 @@ def mul(x, y):
 >>>>>>> test
 def div(x, y):
     return x / y
+
+def reminder(x, y):
+    return x%y
